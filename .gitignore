@@ -1,0 +1,11 @@
+campus_analytics.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+*.user
+build/
+.vs/
+x64/
+Debug/
+Release/
